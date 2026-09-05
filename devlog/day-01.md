@@ -10,7 +10,7 @@ my hardware skills are gone and I can't even use
 soldering iron properly anymore!
 But nowadays, I'm just building software projects and
 I'm kinda bored so I'll do some hardware stuff because sometimes
-it's more engaging to build projects that lives in real life, not in a computer.
+it's more engaging to build projects that live in real life, not in a computer.
 ### Today I...
 - Opened the mouse and took out the PCB
 - Desoldered all the components from the PCB
@@ -20,3 +20,8 @@ it's more engaging to build projects that lives in real life, not in a computer.
 - Tested whether the LCD screen works or not
 - Found the hot glue gun and glued the craft sticks for the base.
 - Hot-glued them to the enclosure holding the LCD screen
+
+<img width="400" height="225" alt="IMG_3429" src="https://github.com/user-attachments/assets/1aeaf48b-a182-4401-a296-5fecaf15422f" />
+<img width="400" height="225" alt="IMG_3431" src="https://github.com/user-attachments/assets/ce2a99d6-c027-42c9-aeb0-40acc10e99d4" />
+<img width="400" height="225" alt="IMG_3430" src="https://github.com/user-attachments/assets/991ab1e9-15be-414e-b57e-0abd182700ba" />
+<img width="400" height="225" alt="IMG_3432" src="https://github.com/user-attachments/assets/7db17ece-6922-46ac-9893-60b9100a042e" />
